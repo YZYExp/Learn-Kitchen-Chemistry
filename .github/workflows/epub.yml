@@ -23,7 +23,8 @@ jobs:
           cache: pip
           cache-dependency-path: requirements.txt
       - name: Install EPUB dependencies
-        run: python -m pip install --only-binary=:all: -r requirements.txt
+        run: |
+          python -m pip install --only-binary=:all: -r requirements.txt
       - name: Build and validate EPUB
         run: python scripts/build_book.py
       - name: Upload complete reading edition
