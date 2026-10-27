@@ -1,0 +1,204 @@
+{
+  "title": "厨房里的科学冒险",
+  "subtitle": "从一锅水到一桌饭，读懂化学、生物与物理",
+  "language": "zh-CN",
+  "edition": "扩展阅读稿",
+  "chapters": [
+    {
+      "id": "01",
+      "title": "从现象开始：厨房里的观察方法",
+      "slug": "observe",
+      "source": "chapters/01-observe.md",
+      "part": 1
+    },
+    {
+      "id": "02",
+      "title": "水的多重身份：溶解、沸腾与结冰",
+      "slug": "water",
+      "source": "chapters/02-water.md",
+      "part": 1
+    },
+    {
+      "id": "03",
+      "title": "盐与糖：浓度、结晶和水的去向",
+      "slug": "salt-sugar",
+      "source": "chapters/03-salt-sugar.md",
+      "part": 1
+    },
+    {
+      "id": "04",
+      "title": "酸与碱：从食醋到小苏打",
+      "slug": "acid-base",
+      "source": "chapters/04-acid-base.md",
+      "part": 1
+    },
+    {
+      "id": "05",
+      "title": "火候的物理学：热怎样进入食物",
+      "slug": "heat",
+      "source": "chapters/05-heat.md",
+      "part": 1
+    },
+    {
+      "id": "06",
+      "title": "蒸、煮与压力：气体怎样改变烹饪",
+      "slug": "pressure",
+      "source": "chapters/06-pressure.md",
+      "part": 1
+    },
+    {
+      "id": "07",
+      "title": "油脂的性格：熔点、氧化与香气",
+      "slug": "fat",
+      "source": "chapters/07-fat.md",
+      "part": 1
+    },
+    {
+      "id": "08",
+      "title": "油水相处：乳化与酱汁",
+      "slug": "emulsion",
+      "source": "chapters/08-emulsion.md",
+      "part": 2
+    },
+    {
+      "id": "09",
+      "title": "把空气吃进去：泡沫与打发",
+      "slug": "foam",
+      "source": "chapters/09-foam.md",
+      "part": 2
+    },
+    {
+      "id": "10",
+      "title": "淀粉的旅程：米饭、面条与勾芡",
+      "slug": "starch",
+      "source": "chapters/10-starch.md",
+      "part": 2
+    },
+    {
+      "id": "11",
+      "title": "蛋白质的变化：鸡蛋、豆腐与肉",
+      "slug": "protein",
+      "source": "chapters/11-protein.md",
+      "part": 2
+    },
+    {
+      "id": "12",
+      "title": "面团的骨架：面筋、酵母与膨松",
+      "slug": "dough",
+      "source": "chapters/12-dough.md",
+      "part": 2
+    },
+    {
+      "id": "13",
+      "title": "柔软的网络：果冻、果酱与凝胶",
+      "slug": "gel",
+      "source": "chapters/13-gel.md",
+      "part": 2
+    },
+    {
+      "id": "14",
+      "title": "结晶的手艺：巧克力、黄油与冰淇淋",
+      "slug": "chocolate",
+      "source": "chapters/14-chocolate.md",
+      "part": 2
+    },
+    {
+      "id": "15",
+      "title": "褐变的三条路：烤香、焦糖与切面",
+      "slug": "browning",
+      "source": "chapters/15-browning.md",
+      "part": 3
+    },
+    {
+      "id": "16",
+      "title": "蔬果的颜色与脆度：细胞如何改变",
+      "slug": "plants",
+      "source": "chapters/16-plants.md",
+      "part": 3
+    },
+    {
+      "id": "17",
+      "title": "酶在厨房：从菠萝到洋葱",
+      "slug": "enzymes",
+      "source": "chapters/17-enzymes.md",
+      "part": 3
+    },
+    {
+      "id": "18",
+      "title": "微生物上桌：发酵的分工与边界",
+      "slug": "fermentation",
+      "source": "chapters/18-fermentation.md",
+      "part": 3
+    },
+    {
+      "id": "19",
+      "title": "风味的拼图：味觉、嗅觉与口感",
+      "slug": "flavor",
+      "source": "chapters/19-flavor.md",
+      "part": 3
+    },
+    {
+      "id": "20",
+      "title": "把味道带出来：茶、咖啡与高汤",
+      "slug": "extraction",
+      "source": "chapters/20-extraction.md",
+      "part": 3
+    },
+    {
+      "id": "21",
+      "title": "香辛料与刺激：葱姜蒜、辣椒和花椒",
+      "slug": "spice",
+      "source": "chapters/21-spice.md",
+      "part": 3
+    },
+    {
+      "id": "22",
+      "title": "低温的作用：冷藏、冷冻与解冻",
+      "slug": "cold",
+      "source": "chapters/22-cold.md",
+      "part": 4
+    },
+    {
+      "id": "23",
+      "title": "保存的科学：水活度、酸度与包装",
+      "slug": "preserve",
+      "source": "chapters/23-preserve.md",
+      "part": 4
+    },
+    {
+      "id": "24",
+      "title": "看不见的风险：食安与交叉污染",
+      "slug": "safety",
+      "source": "chapters/24-safety.md",
+      "part": 4
+    },
+    {
+      "id": "25",
+      "title": "洗净厨房：油污、水垢与清洁剂",
+      "slug": "clean",
+      "source": "chapters/25-clean.md",
+      "part": 4
+    },
+    {
+      "id": "26",
+      "title": "锅具与炉灶：材料、能量与选择",
+      "slug": "tools",
+      "source": "chapters/26-tools.md",
+      "part": 4
+    },
+    {
+      "id": "27",
+      "title": "读懂配料表：添加剂与加工食品",
+      "slug": "labels",
+      "source": "chapters/27-labels.md",
+      "part": 4
+    },
+    {
+      "id": "28",
+      "title": "一顿饭的科学推演：从准备到收尾",
+      "slug": "meal",
+      "source": "chapters/28-meal.md",
+      "part": 4
+    }
+  ]
+}

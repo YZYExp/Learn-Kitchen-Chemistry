@@ -1,0 +1,520 @@
+[
+  {
+    "file": "assets/images/comic-01.png",
+    "type": "AI漫画教学示意",
+    "chapters": [
+      "01",
+      "02"
+    ],
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "6836a5c04abbd33e03227400fc2a57722155c43a7707f251755c059a3f9d02af"
+  },
+  {
+    "file": "assets/images/comic-03.png",
+    "type": "AI漫画教学示意",
+    "chapters": [
+      "03",
+      "04"
+    ],
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "a0dd3cda5f76fb6c9134d6b56dd2121c223fce4ade949647d29498f0c63a5fd4"
+  },
+  {
+    "file": "assets/images/comic-05.png",
+    "type": "AI漫画教学示意",
+    "chapters": [
+      "05",
+      "06"
+    ],
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "4ce8bf7e4c05168e832844037c8515632d243b86a7fd909b524dc9b85eaf5fdf"
+  },
+  {
+    "file": "assets/images/comic-07.png",
+    "type": "AI漫画教学示意",
+    "chapters": [
+      "07",
+      "08"
+    ],
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "27c1dbd01b0d0c2ea1993b3ae0bfc3bb154578711b1ef28218180d90afed5488"
+  },
+  {
+    "file": "assets/images/comic-09.png",
+    "type": "AI漫画教学示意",
+    "chapters": [
+      "09",
+      "10"
+    ],
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "34242509ad5927b87d33560e0113cef7674d4fb0a069a379bbe1874248174454"
+  },
+  {
+    "file": "assets/images/comic-11.png",
+    "type": "AI漫画教学示意",
+    "chapters": [
+      "11",
+      "12"
+    ],
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "c69cae70d105279dd2da884759f0d32e4f1ac9b36a10b829666202467ecfe237"
+  },
+  {
+    "file": "assets/images/comic-13.png",
+    "type": "AI漫画教学示意",
+    "chapters": [
+      "13",
+      "14"
+    ],
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "8d1ffeda0fea7b71890dee12d42891f6012ae475ac10fb1b0ea0b6d091e657ba"
+  },
+  {
+    "file": "assets/images/comic-15.png",
+    "type": "AI漫画教学示意",
+    "chapters": [
+      "15",
+      "16"
+    ],
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "1f0855e31ec4bfb59938cd2b950c7a62f25bd17330a89adf5dd785bcaffd8712"
+  },
+  {
+    "file": "assets/images/comic-17.png",
+    "type": "AI漫画教学示意",
+    "chapters": [
+      "17",
+      "18"
+    ],
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "a657014b4177f18398660f095d4afd21847bb96d732da1173599486cc77eb6c3"
+  },
+  {
+    "file": "assets/images/comic-19.png",
+    "type": "AI漫画教学示意",
+    "chapters": [
+      "19",
+      "20"
+    ],
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "ca11ef0bfd00fa952758a61a4404f9b1a549e181374816e7fb1b67c494e1d9fd"
+  },
+  {
+    "file": "assets/images/comic-21.png",
+    "type": "AI漫画教学示意",
+    "chapters": [
+      "21",
+      "22"
+    ],
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "8ab5be33313db31c8382ce53de789f212fed86d97b915a8be68220cf15bd2f33"
+  },
+  {
+    "file": "assets/images/comic-23.png",
+    "type": "AI漫画教学示意",
+    "chapters": [
+      "23",
+      "24"
+    ],
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "818d67fcf3f6ea78dbc3c901c45b17bf11b4fb8bd6774a6d2313ce795a7b901b"
+  },
+  {
+    "file": "assets/images/comic-25.png",
+    "type": "AI漫画教学示意",
+    "chapters": [
+      "25",
+      "26"
+    ],
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "0762ee09cae2ad11fa6b10338c75ba456907b09bcca762eafb4679b32cb11778"
+  },
+  {
+    "file": "assets/images/comic-27.png",
+    "type": "AI漫画教学示意",
+    "chapters": [
+      "27",
+      "28"
+    ],
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "ebb4d0df00958b81c80f168d1851da27a44f6d57a861f5d6d1b60a2890e0d87f"
+  },
+  {
+    "file": "assets/images/diagram-01.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "01"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "9b605910ebb4e33a4c6048a3dcb21a71a4424c30ab7b28562dd2711fbb31728a"
+  },
+  {
+    "file": "assets/images/diagram-02.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "02"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "40c1f630af0f203b6affc5f1dde0eaa803a6eaba152584f0144b57d5d3294b9d"
+  },
+  {
+    "file": "assets/images/diagram-03.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "03"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "1a70aab54fe9e197c28c6911129d8da34310a7c6beaacc8cd09e506ff7de7103"
+  },
+  {
+    "file": "assets/images/diagram-04.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "04"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "601035d8ab46103c4cfacef650d23b6034e3725db7a49958ed9f62c9c7d7eca0"
+  },
+  {
+    "file": "assets/images/diagram-05.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "05"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "ec5dd108bccaf3d91839de70a39995e3a9c913933d9bd19d13f362a71fc218de"
+  },
+  {
+    "file": "assets/images/diagram-06.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "06"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "69cdcb903c700707385c7f9edac7475fe2a9e697b4d833ce584c106ace2301fc"
+  },
+  {
+    "file": "assets/images/diagram-07.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "07"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "e279986235fa46d19de7e2767a10b901602c3898bf910545672ad97ac88de6b6"
+  },
+  {
+    "file": "assets/images/diagram-08.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "08"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "b80608ddb463e51e44fb9b0fcaccf6113a772e47ab8b903b1799cba52dac1970"
+  },
+  {
+    "file": "assets/images/diagram-09.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "09"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "c850577da1c6e07c28dd7fa5ec2c07a23f1d3b80b8d4b67ab0fba17fc5e27e9b"
+  },
+  {
+    "file": "assets/images/diagram-10.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "10"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "684d3909d6f092e5a839a71e536647089e6172857375a09f4e48676894c3944b"
+  },
+  {
+    "file": "assets/images/diagram-11.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "11"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "9194c90ac9864103626c11eb5282bcfa094591527aee01585b62dcc7690cc202"
+  },
+  {
+    "file": "assets/images/diagram-12.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "12"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "4ca894956a89e5aa910806535880c7fb499e6111c19a60e9b91d8a5ab06cd620"
+  },
+  {
+    "file": "assets/images/diagram-13.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "13"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "cf473c257ec7bf5ab8b082a421f547a15e09f8cf21e4bb6f72fd982556f1ce16"
+  },
+  {
+    "file": "assets/images/diagram-14.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "14"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "3aa17971c1f8dd07c8087116e66d3c94cf05d28f8ae9ec5c02297d0646e07c55"
+  },
+  {
+    "file": "assets/images/diagram-15.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "15"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "d25d8f19eecd350d973e4336aee4422b527f12a8862eb02eb09f90491262e88b"
+  },
+  {
+    "file": "assets/images/diagram-16.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "16"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "c1fe5f9c936aa225a13659c40704268650a4866296e0b5eb5799f2ef860b4874"
+  },
+  {
+    "file": "assets/images/diagram-17.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "17"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "86f4d81b407e92c6b37a9c93cb3b2781fa4bee7ba0a68c522fdae4a44ed62928"
+  },
+  {
+    "file": "assets/images/diagram-18.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "18"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "dbe5f410fb06130c2788fbac5fbd90f5dd6ac234f056d8f0f7d6fba2aefaf414"
+  },
+  {
+    "file": "assets/images/diagram-19.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "19"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "f30707425d98b43e31c6f63f6509108fa04855a20c0ba97b15e8645f46c87b70"
+  },
+  {
+    "file": "assets/images/diagram-20.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "20"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "0d906a30b68a54470f453399570d17912c71f0ee6f7e2e7f038921f4eaeeeda7"
+  },
+  {
+    "file": "assets/images/diagram-21.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "21"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "1bd2a3b372adfbfd684c24f309aa18c758ddc6beb41a9b607dc5c2d91ea8960d"
+  },
+  {
+    "file": "assets/images/diagram-22.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "22"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "1dc372d4ae1ceb45d4643160fa75327f33dad2834ae0cbd30ef2d05ac40be894"
+  },
+  {
+    "file": "assets/images/diagram-23.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "23"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "8b8120431ffa4876a88d640b6c874ed4c34fe943f94f2630c0ef52ec3c0e03f6"
+  },
+  {
+    "file": "assets/images/diagram-24.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "24"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "1d92b9a14f780234cca6413cf337c770cc4ad33ee5e20a8a563f0197dfc6163c"
+  },
+  {
+    "file": "assets/images/diagram-25.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "25"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "87342aeed6fad6ef22551ce0792656ae0ae8227d86e1231ce6dfa1b31999c9b6"
+  },
+  {
+    "file": "assets/images/diagram-26.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "26"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "06cb12ec67262a0e6ad9a3c3b0f5ae0807d77be865f6178cb92675c36e5edc52"
+  },
+  {
+    "file": "assets/images/diagram-27.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "27"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "b2d66ce98e53690e853f021b229bf1a4bfbac26b9321b6b9f46cb60ffc28fe47"
+  },
+  {
+    "file": "assets/images/diagram-28.png",
+    "type": "原创机制概念图",
+    "chapters": [
+      "28"
+    ],
+    "dimensions": [
+      1200,
+      1450
+    ],
+    "sha256": "ebd538280c313d629ecc4daf992108c3a8799a912c826c5eaa0ac543e08fb4f4"
+  }
+]
