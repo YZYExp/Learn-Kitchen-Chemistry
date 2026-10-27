@@ -6,4 +6,6 @@
 
 EPUB构建逐一解析XML、校验包内资源与本地链接，验证结果见build/validation.json。验证为结构与内容检查，未宣称已在所有第三方阅读器逐一测试。
 
-全图索引与提示词、引用核查记录保留在editorial与references，不进入普通阅读版。未设置远端，未创建或部署站点。
+全图索引与提示词、引用核查记录保留在editorial与references，不进入普通阅读版。工程已发布至YZYExp/Learn-Kitchen-Chemistry，在线阅读由独立GitHub Pages流程构建，EPUB另行导出。
+
+2026-10-27插画风格修订：以用户确认的钢笔淡彩样张统一更新14幅漫画，保留28幅原创机制概念图。重新核对场景和图注，更新全图索引、公共EPUB与网站共用资源；详细提示词见image-prompts.md及image-redraw-20261027.json。

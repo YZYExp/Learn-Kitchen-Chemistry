@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-27",
+  "method": "内置 image_gen",
+  "reference": "用户已确认的 comic-01 钢笔淡彩样张",
+  "shared_prompt": "Use case: illustration-story. Create one final illustrated Chinese kitchen science comic page matching the supplied APPROVED STYLE SAMPLE. Input image is STYLE AND CHARACTER REFERENCE ONLY; replace all scenes and words with the new specification. Same thin naturally irregular grey-black pen lines, airy neutral white paper, very light watercolor wash, pale sage and grey blue utensils, restrained terracotta tomato with cream apron and small black dot eyes, small natural texture. Gentle hand-drawn everyday book comic, calm and readable. No glossy plastic, no 3D rendering, no oversaturated reds or golds, no crowded backgrounds or golden lighting, no photorealism. Portrait 2:3, three vertically stacked roomy vignettes, generous white gutters, simple counter edges. One unobtrusive Chinese title and a short label for each panel. Short neat handwritten Chinese; no invented facts, microscopic structures or precise numerical charts. Opaque vessels stay opaque; no impossible cutaway. Tomato mascot observes safely away from heat; utensils physically plausible. This is educational scene art, not a precise process diagram. ",
+  "images": [
+    {
+      "n": 1,
+      "title": "从现象开始",
+      "note": "直接采用用户确认的样张"
+    },
+    {
+      "n": 3,
+      "title": "盐糖与酸碱",
+      "scenes": "Top: sugar being stirred into clear water glass, label ‘糖溶入水’. Middle: same cucumber slices before salting and softened with visible small amount of liquid afterward, label ‘盐渍黄瓜’. Bottom: small open transparent bowl on separate empty observation tray, a little clear vinegar and food-grade baking soda foaming; NO vegetables or other food inside bowl; two small packets/bottles clearly labeled ‘食醋’ and ‘小苏打’. Panel label MUST be ‘观察用，不食用’. Small quantities, open bowl, no closed container. This is observation only, never a recipe."
+    },
+    {
+      "n": 5,
+      "title": "热的旅行",
+      "scenes": "Top: equal potato pieces boiling in opaque saucepan and lightly browning in separate frying pan, label ‘水煮与煎制’. Middle: tilted ordinary pot lid with water drops on underside, label ‘锅盖上的水珠’. Bottom: closed ordinary electric pressure cooker safely on counter beside its instruction booklet, label ‘先读说明书’. No hand opening cooker, no exposed pressure valve, no invented numbers."
+    },
+    {
+      "n": 7,
+      "title": "油水相处",
+      "scenes": "Top: butter block on little dish and bottled cooking oil with oil in spoon, label ‘固态与液态’. Middle: clear glass distinct oil layer ABOVE water, label ‘油上水下’. Bottom: mixing a mustard vinaigrette in an open small bowl with whisk, cloudy dispersed dressing in spoon, label ‘搅拌成乳浊液’. No molecular drawing."
+    },
+    {
+      "n": 9,
+      "title": "空气与淀粉",
+      "scenes": "Top: egg whites whisked into foam in large bowl, whisk held naturally, label ‘把空气打进去’. Middle: corn starch dispersed by spoon into COLD water in glass bowl, no hob, label ‘先用冷水分散’. Bottom: thickened starch sauce dripping slowly from spoon above opaque saucepan, separate little bowl of cooked rice, label ‘加热后变稠’."
+    },
+    {
+      "n": 11,
+      "title": "柔软的骨架",
+      "scenes": "Top: cracked raw egg in bowl beside hard-boiled egg cut in half with set white and yellow yolk, label ‘鸡蛋受热凝固’. Middle: glass of soy milk beside cut block tofu on small plate, label ‘从豆浆到豆腐’. Bottom: small dough ball and larger risen dough ball in separate bowls, adjacent bread cross section showing realistic air holes, label ‘面团里的气孔’."
+    },
+    {
+      "n": 13,
+      "title": "凝固的秘密",
+      "scenes": "Top: spoon gently indenting pale translucent jelly on plate, label ‘柔软的凝胶’. Middle: thick berry jam on spoon above small saucepan resting OFF heat on trivet, label ‘果酱的稠度’. Bottom: matte chocolate pieces on plate and small scoop of ice cream in bowl, label ‘温度改变质地’. No invented thermometer or temperature numbers."
+    },
+    {
+      "n": 15,
+      "title": "颜色的三条路",
+      "scenes": "Top: pale bread slice next to same-size lightly browned toast, label ‘面包烤香了’. Middle: white sugar in dish beside pale amber caramel in saucepan OFF heat on trivet, no hot caramel tasting, label ‘糖的焦糖化’. Bottom: same apple wedges one freshly cut pale and other lightly brown cut surface with small clock, label ‘切面慢慢变褐’. Keep browning subtle and distinguish foods."
+    },
+    {
+      "n": 17,
+      "title": "看不见的帮手",
+      "scenes": "Top: fresh pineapple pieces on separate plate beside two gelatin dessert dishes, one visibly liquid and one set jelly, label ‘菠萝与明胶’. Middle: bowl of risen dough loosely covered with cloth and generic commercial yeast sachet, label ‘酵母让面团膨大’. Bottom: clearly commercial yogurt sealed cup and opened cup beside playful small imagined microbe thought cloud, exact small text ‘拟人示意’, label ‘酸奶里的发酵’. No homemade warm milk culturing instructions or real microbes implied."
+    },
+    {
+      "n": 19,
+      "title": "风味的旅行",
+      "scenes": "Top: simple adult side profile nose above warm soup bowl at safe distance, two thin aroma lines, label ‘闻到香气’. Middle: transparent tea pot with leaves and tea beside a SEPARATE pour-over coffee dripper correctly resting over coffee cup, label ‘茶与咖啡的萃取’. Bottom: soup transferred with ladle through small mesh sieve into bowl, soup pot on trivet, label ‘从食材到汤里’. Hands and liquid paths plausible."
+    },
+    {
+      "n": 21,
+      "title": "香气与低温",
+      "scenes": "Top: four little dishes containing chili, ginger root slices, garlic, Sichuan peppercorns, label ‘不同的辛香’. Middle: vegetables in lidded food storage boxes on refrigerator shelf, label ‘冷藏减慢变化’. Bottom: frosty whole strawberries in one bowl and softened thawed strawberries with juice in another bowl, no mold, label ‘解冻后的质地’. Tomato observer stays outside refrigerator, no micrographic claims."
+    },
+    {
+      "n": 23,
+      "title": "把新鲜留下",
+      "scenes": "Top: cooked leftovers portioned into two shallow food boxes, label ‘分装浅盒’. Middle: open refrigerator upper shelf sealed cooked food boxes; bottom shelf raw meat enclosed in a CLOSED leakproof transparent container with a separate tray underneath, clearly separated from ready-to-eat food, label ‘熟食在上，生肉在下’. Bottom: hands washed with plain soap under faucet, separate adjacent two cutting boards one with raw chicken and the other with vegetables with separate knives, label ‘洗手与分用砧板’. No splashing raw meat, no tasting raw food."
+    },
+    {
+      "n": 25,
+      "title": "厨房的收尾",
+      "scenes": "Top: hand washing oily plate with sponge at sink and ONE plain dishwashing detergent bottle labeled ‘洗洁精’, label ‘洗去油污’. No second cleaning product, no bleach mixing. Middle: opaque metal saucepan and opaque ceramic pot resting separately on trivets, label ‘锅具各有特点’. Bottom: suitable opaque metal pan on induction cooker with instruction booklet beside hob, label ‘选用适配锅具’. No heating ceramic on induction, no hand on hot surface."
+    },
+    {
+      "n": 27,
+      "title": "把知识端上桌",
+      "scenes": "Top: two unbranded food packages with simplified blank label blocks, small actual text ‘标签示意’, magnifier, label ‘读懂食品标签’. No invented nutritional numbers. Middle: ordinary rice cooker containing cooked rice on counter, adjacent finished cooked tofu and green vegetables being plated with spoon, label ‘把知识用在做饭里’. Bottom: modest finished meal of rice, cooked tofu, cooked greens and cup tea, little tomato quietly enjoying at table edge, label ‘好好吃一顿饭’. No raw meat meal, no unsafe cartoon in pots."
+    }
+  ]
+}
